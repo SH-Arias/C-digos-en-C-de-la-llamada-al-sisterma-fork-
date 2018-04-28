@@ -23,7 +23,7 @@ int main(char *argc, char** argv) {
   x = 17;                                                                           
                                                                                        
   //                                                                                   
-  printf("En el padre x es %d\n", x);
+  printf("En el padre el x inicial es %d\n", x);
   
   pid = fork();
 
